@@ -1,6 +1,10 @@
-const resolvers = {
+import { getMovies, getMovie } from "./db";
+
+const resolvers = { 
     Query: {
-        test: () => "Hi, KKH~"
+        getMovies,
+        getMovie
     }
-}
+};
+
 export default resolvers;

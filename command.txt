@@ -6,4 +6,5 @@
 
 // nodemon 실패...
 6. npm install -g babel-cli
-7.
+7. yarn add node-fetch
+8. yarn add axios
