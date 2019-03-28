@@ -1,0 +1,9 @@
+1. yarn init
+2. yarn add graphql-yoga
+3. yarn global add nodemon
+4. yarn add babel-node --dev => yarn global add babel-cli
+5. yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
+
+// nodemon 실패...
+6. npm install -g babel-cli
+7.
